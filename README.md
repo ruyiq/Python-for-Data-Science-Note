@@ -23,3 +23,4 @@
 16. Support Vector Machines
 
 ## Projects Done in this course
+1. Pandas exercise:Ecommerce Purchases (Fake data)
