@@ -23,4 +23,5 @@
 16. Support Vector Machines
 
 ## Projects Done in this course
-1. Pandas exercise:Ecommerce Purchases (Fake data)
+1. Pandas exercise: Ecommerce Purchases (Fake data)
+2. Seaborn exercise: Titanic survivor dataset (provided by Kaggle)
