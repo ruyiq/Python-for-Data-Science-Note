@@ -24,4 +24,6 @@
 
 ## Projects Done in this course
 1. Pandas exercise: Ecommerce Purchases (Fake data)
-2. Seaborn exercise: Titanic survivor dataset (provided by Kaggle)
+2. Seaborn exercise: Titanic dataset (provided by Kaggle)
+3. Data Capstone Project: 911 Calls (dataset provided by Kaggle)
+4. Data Capstone Project: Analyze bank stocks to see how they progressed throughout the financial crisis all the way to early 2016. (dataset provided by Google finance)
