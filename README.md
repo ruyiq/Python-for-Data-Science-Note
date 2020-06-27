@@ -27,3 +27,4 @@
 2. Seaborn exercise: Titanic dataset (provided by Kaggle)
 3. Data Capstone Project: 911 Calls (dataset provided by Kaggle)
 4. Data Capstone Project: Analyze bank stocks to see how they progressed throughout the financial crisis all the way to early 2016. (dataset provided by Google finance)
+5. Linear Regression Project: Doing analysis to help a company decide whether to focus their efforts on their mobile app experience or their website.
